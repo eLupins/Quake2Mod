@@ -21,3 +21,4 @@ Following deliverables presented in the mod:
 
 
 ****Special note: Due to lack of testers for this mod, the grenade was also modified to grant user the "it" role. Should the player die by holding onto a grenade for too long, they will also become "it."
+Should the mod malfunction in any way and an "it" player is not assigned, suicide by holding onto the grenade will force assign the suiciding player to be "it."
