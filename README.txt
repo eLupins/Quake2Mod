@@ -16,7 +16,8 @@ Following deliverables presented in the mod:
 1. Blaster was modified into a "melee" weapon. The blaster is what the user MUST be using in order to tag other players. Death by any other means will not change a player's status.  
 2. Player gains points through becoming "it." Player cannot lose points by suicide.
 3. "It" player receives god mode ability. 
-4. When opening the user's stats in Deathmatch (F2), the UI will notify the player whether they are "it" or not.
+4. All other players receive quad ability to defend themselves.
+5. When opening the user's stats in Deathmatch (F2), the UI will notify the player whether they are "it" or not.
 
 
 
